@@ -1,4 +1,4 @@
-# [Your Name] - Lab 1
+# [Logan Browning] - Lab 1
 
 ## About This Project
 This is a simple C++ console application created for Git Lab 1.
