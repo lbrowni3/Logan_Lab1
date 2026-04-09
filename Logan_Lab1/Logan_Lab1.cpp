@@ -11,7 +11,7 @@ int main()
 
     cout << "Git makes collaboration easy!" << endl;
 
-    cout << "Lab 1 completed on [today's date]!" << endl;
+    cout << "Lab 1 completed on 4/9/2026!" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
